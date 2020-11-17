@@ -7,7 +7,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "echo \"node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
