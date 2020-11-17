@@ -1,0 +1,160 @@
+[
+    {
+      "id": "1",
+      "fields": {
+        "company": "Vitamin Shop",
+        "colors": [
+          "#f15025",
+          "#222"
+        ],
+        "featured": true,
+        "price": 999,
+        "name": "Vitamin C",
+        "image": "https://i.ibb.co/f8SZsk8/pexels-photo-370014.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "fields": {
+        "company": "Healthify",
+        "colors": [
+          "#f15025",
+          "#222"
+        ],
+        "price": 7999,
+        "name": "Vitamin D",
+        "image": "https://i.ibb.co/cY47cqd/vitaminD.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "fields": {
+        "company": "HealthNutz",
+        "colors": [
+          "#222",
+          "#0000ff",
+          "#f15025"
+        ],
+        "price": 2599,
+        "name": "Biotin",
+        "image":"https://i.ibb.co/KxLg1YL/biotin.jpg"
+      }
+    },
+    {
+      "id": "4",
+      "fields": {
+        "company": "HealthNutz",
+        "colors": [
+          "#ff0000",
+          "#0000ff"
+        ],
+        "price": 4599,
+        "name": "Calcium",
+        "image": "https://i.ibb.co/Kyg25QT/calcium.jpg"
+      }
+    },
+    {
+      "id": "5",
+      "fields": {
+        "company": "HealthNutz",
+        "colors": [
+          "#ff0000",
+          "#f15025"
+        ],
+        "price": 699,
+        "name": "Flaxseed",
+        "image":"https://i.ibb.co/7VHV55H/flaxseed.jpg"
+      }
+    },
+    {
+      "id": "6",
+      "fields": {
+        "company": "Healthify",
+        "colors": [
+          "#0000ff"
+        ],
+        "price": 6999,
+        "name": "Vitamin E",
+        "image":"https://i.ibb.co/524LKZM/vitaminE.jpg"
+      }
+    },
+    {
+      "id": "7",
+      "fields": {
+        "company": "Vitamin Shop",
+        "colors": [
+          "#00ff00",
+          "#f15025",
+          "#ff0000"
+        ],
+        "price": 899,
+        "name": "Zinc",
+        "image": "https://i.ibb.co/V9gM1vK/zinc.jpg"
+      }
+    },
+    {
+      "id": "8",
+      "fields": {
+        "company": "Vitamin Bros",
+        "colors": [
+          "#f15025"
+        ],
+        "price": 2199,
+        "name": "Vitamin A",
+        "image": "https://i.ibb.co/k2h8m1Y/vitaminA.jpg"
+      }
+    },
+    {
+      "id": "9",
+      "fields": {
+        "company": "Healthify",
+        "colors": [
+          "#00ff00",
+          "#0000ff"
+        ],
+        "featured": true,
+        "price": 3995,
+        "name": "Vitamin B",
+        "image": "https://i.ibb.co/L9CZtY8/vitaminB.jpg"
+      }
+    },
+    {
+      "id": "10",
+      "fields": {
+        "company": "Vitamin Bros",
+        "colors": [
+          "#ff0000",
+          "#00ff00"
+        ],
+        "featured": true,
+        "price": 2998,
+        "name": "Fish Oil",
+        "image": "https://i.ibb.co/2NVgQY8/fishOil.jpg"
+      }
+    },
+    {
+      "id": "11",
+      "fields": {
+        "company": "Vitamin Shop",
+        "colors": [
+          "#00ff00",
+          "#ff0000"
+        ],
+        "price": 1099,
+        "name": "Selenium",
+        "image":"https://i.ibb.co/svG8sTK/selinium.jpg"
+      }
+    },
+    {
+      "id": "12",
+      "fields": {
+        "company": "Healthify",
+        "colors": [
+          "#222"
+        ],
+        "price": 999,
+        "name": "Magnesium",
+        "image":"https://i.ibb.co/zNkshpb/magnesium.jpg"
+      }
+    }
+  ]
