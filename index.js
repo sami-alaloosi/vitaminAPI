@@ -10,6 +10,7 @@ const generalData = fs.readFileSync(`${__dirname}/dataGeneral.json`, `utf-8`),
 
 
 const server = http.createServer(function(req, res){
+      res.header("Access-Control-Allow-Origin", "*")
     const {query, pathname} = url.parse(req.url, true);
 
     if (pathname === "/api/all" || pathname === "/" || pathname === "/api"){
